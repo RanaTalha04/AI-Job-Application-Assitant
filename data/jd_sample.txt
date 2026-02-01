@@ -1,0 +1,19 @@
+Description
+We are seeking a highly motivated Associate ML Engineer to join our dynamic team in the Computer Software industry. This entry-level position is ideal for individuals passionate about machine learning and artificial intelligence, looking to gain hands-on experience and contribute to innovative projects. The Associate ML Engineer will work closely with data scientists and senior engineers to design, develop, and implement machine learning models and algorithms that drive business solutions. In this role, you will be involved in various stages of the machine learning lifecycle, from data preprocessing and feature engineering to model training and evaluation. The successful candidate will have the opportunity to learn from experienced professionals while contributing to challenging and rewarding projects. Our company values creativity, collaboration, and continuous improvement, and we strive to provide a supportive environment that fosters growth and development. If you have a strong foundation in programming, an understanding of machine learning concepts, and a desire to expand your skills in this exciting field, we encourage you to apply for this opportunity and become a valued member of our team.
+
+Responsibilities
+Assist in the design and development of machine learning models and algorithms.
+Collaborate with data scientists and engineers to preprocess and analyze data for model training.
+Conduct experiments to evaluate model performance and optimize parameters accordingly.
+Support the deployment and integration of machine learning solutions into existing systems.
+Participate in code reviews to ensure quality and adherence to best practices.
+Document processes, findings, and methodologies for future reference and knowledge sharing.
+Stay updated with the latest trends and advancements in machine learning technologies and methodologies.
+Requirements
+Bachelor's degree in Computer Science, Data Science, or a related field.
+Familiarity with programming languages such as Python or R.
+Basic understanding of machine learning concepts and algorithms.
+Experience with data manipulation and analysis using libraries such as Pandas and NumPy.
+Knowledge of frameworks such as TensorFlow or PyTorch is a plus.
+Strong problem-solving skills and attention to detail.
+Excellent communication skills and ability to work collaboratively in a team environment.
